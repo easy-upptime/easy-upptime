@@ -21,15 +21,15 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /linx-upptime
-  logoUrl: https://rodenacker.github.io/linx-upptime/assets/logo-round.png
-  name: Linx-Upptime
+  baseUrl: /easy-upptime
+  logoUrl: https://rodenacker.github.io/easy-upptime/assets/logo-round.png
+  name: Easy-Upptime
   theme: light
-  introTitle: "**Linx Upptime**"
+  introTitle: "**Easy Upptime**"
   introMessage: This is an example of how we can use GitHub to check if our Linx API's are up
   navbar:
     - title: Status
-      href: /linx-upptime
+      href: /easy-upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
