@@ -22,7 +22,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /easy-upptime
-  logoUrl: https://rodenacker.github.io/easy-upptime/assets/logo-round.png
+  logoUrl: https://rodenacker.github.io/easy-upptime/assets/upptime-icon.svg
   name: Easy-Upptime
   theme: light
   introTitle: "**Easy Upptime**"
