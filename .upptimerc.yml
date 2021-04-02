@@ -7,7 +7,7 @@ sites:
    - name: Form2Channel
      url: https://showcase.api.linx.twenty57.net/Form2Channel/health?Input=yes
      assignees: 
-       - Franz
+       - rodenacker
    - name: Unixtime
      url: https://showcase.api.linx.twenty57.net/UnixTime/fromunix?timestamp=1549892280
      assignees: 
