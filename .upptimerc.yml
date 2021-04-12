@@ -11,11 +11,15 @@ sites:
    - name: Unixtime
      url: https://showcase.api.linx.twenty57.net/UnixTime/fromunix?timestamp=1549892280
      assignees: 
-       - Franz
+       - rodenacker
+   - name: StadiumForms
+     url: https://interaction-design.co.za/stadiumforms/index.html
+     assignees: 
+       - rodenacker
    - name: BrokenSite
      url: https://brokensite.broken
      assignees: 
-       - Franz
+       - rodenacker
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
