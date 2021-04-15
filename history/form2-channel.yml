@@ -1,7 +1,7 @@
 url: https://showcase.api.linx.twenty57.net/Form2Channel/health?Input=yes
-status: down
-code: 500
-responseTime: 1041
-lastUpdated: 2021-04-14T23:49:53.724Z
+status: up
+code: 200
+responseTime: 390
+lastUpdated: 2021-04-15T07:53:28.830Z
 startTime: Thu Apr 01 2021 08:54:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
