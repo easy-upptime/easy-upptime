@@ -12,6 +12,10 @@ sites:
      url: https://showcase.api.linx.twenty57.net/UnixTime/fromunix?timestamp=1549892280
      assignees: 
        - rodenacker
+   - name: BrokenSite
+     url: https://brokensite.broken
+     assignees: 
+       - rodenacker
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
