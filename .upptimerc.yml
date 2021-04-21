@@ -12,8 +12,8 @@ sites:
      url: https://showcase.api.linx.twenty57.net/UnixTime/fromunix?timestamp=1549892280
      assignees: 
        - rodenacker
-   - name: StadiumForms
-     url: https://interaction-design.co.za/stadiumforms/index.html
+   - name: F2CForms
+     url: https://housefrau.me/text/text_php.html
      assignees: 
        - rodenacker
    - name: BrokenSite
