@@ -13,7 +13,7 @@ sites:
      assignees: 
        - rodenacker
    - name: F2CForms
-     url: https://housefrau.me/text/text_php.html
+     url: http://housefrau.me/test/test_complete_re3.html
      assignees: 
        - rodenacker
    - name: BrokenSite
