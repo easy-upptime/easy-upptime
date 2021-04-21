@@ -12,10 +12,6 @@ sites:
      url: https://showcase.api.linx.twenty57.net/UnixTime/fromunix?timestamp=1549892280
      assignees: 
        - rodenacker
-   - name: F2CForms
-     url: http://housefrau.me/test/test_complete_re3.html
-     assignees: 
-       - rodenacker
    - name: BrokenSite
      url: https://brokensite.broken
      assignees: 
