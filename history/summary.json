@@ -4,18 +4,20 @@
     "url": "https://showcase.api.linx.twenty57.net/Form2Channel/health?Input=yes",
     "icon": "https://favicons.githubusercontent.com/showcase.api.linx.twenty57.net",
     "slug": "form2-channel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2773,
-    "timeDay": 417,
-    "timeWeek": 689,
-    "timeMonth": 2773,
-    "timeYear": 2773,
-    "dailyMinutesDown": {}
+    "time": 2730,
+    "timeDay": 475,
+    "timeWeek": 609,
+    "timeMonth": 2730,
+    "timeYear": 2730,
+    "dailyMinutesDown": {
+      "2021-04-23": 0
+    }
   },
   {
     "name": "Unixtime",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 529,
-    "timeDay": 119,
+    "timeDay": 113,
     "timeWeek": 202,
     "timeMonth": 529,
     "timeYear": 529,
@@ -52,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-23": 49,
+      "2021-04-23": 908,
       "2021-04-22": 1440,
       "2021-04-21": 989
     }
