@@ -4,19 +4,19 @@
     "url": "https://showcase.api.linx.twenty57.net/Form2Channel/health?Input=yes",
     "icon": "https://favicons.githubusercontent.com/showcase.api.linx.twenty57.net",
     "slug": "form2-channel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2730,
-    "timeDay": 475,
-    "timeWeek": 609,
-    "timeMonth": 2730,
-    "timeYear": 2730,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 2686,
+    "timeDay": 460,
+    "timeWeek": 596,
+    "timeMonth": 2686,
+    "timeYear": 2686,
     "dailyMinutesDown": {
-      "2021-04-23": 0
+      "2021-04-23": 25
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-23": 908,
+      "2021-04-23": 933,
       "2021-04-22": 1440,
       "2021-04-21": 989
     }
