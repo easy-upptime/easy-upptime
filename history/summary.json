@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/showcase.api.linx.twenty57.net",
     "slug": "form2-channel",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.82%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 2389,
     "timeDay": 682,
     "timeWeek": 461,
     "timeMonth": 2389,
     "timeYear": 2389,
     "dailyMinutesDown": {
-      "2021-04-29": 0,
+      "2021-04-29": 48,
       "2021-04-23": 25
     }
   },
@@ -55,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-29": 1,
+      "2021-04-29": 48,
       "2021-04-28": 1440,
       "2021-04-27": 1440,
       "2021-04-26": 1440,
