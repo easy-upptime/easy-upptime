@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/showcase.api.linx.twenty57.net",
     "slug": "form2-channel",
     "status": "up",
-    "uptime": "98.55%",
+    "uptime": "98.56%",
     "uptimeDay": "98.94%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.45%",
-    "time": 977,
-    "timeDay": 1263,
-    "timeWeek": 756,
-    "timeMonth": 586,
+    "time": 976,
+    "timeDay": 1284,
+    "timeWeek": 762,
+    "timeMonth": 587,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2022-05-06": 15,
@@ -53,9 +53,9 @@
     "uptimeMonth": "94.96%",
     "uptimeYear": "98.49%",
     "time": 276,
-    "timeDay": 115,
-    "timeWeek": 562,
-    "timeMonth": 258,
+    "timeDay": 114,
+    "timeWeek": 559,
+    "timeMonth": 257,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2022-05-06": 133,
@@ -101,7 +101,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-06": 645,
+      "2022-05-07": 53,
+      "2022-05-06": 1440,
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
@@ -464,8 +465,7 @@
       "2021-05-11": 1440,
       "2021-05-10": 1440,
       "2021-05-09": 1440,
-      "2021-05-08": 1440,
-      "2021-05-07": 1440
+      "2021-05-08": 1440
     }
   }
 ]
