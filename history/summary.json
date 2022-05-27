@@ -8,13 +8,13 @@
     "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.38%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "98.44%",
-    "time": 955,
-    "timeDay": 399,
-    "timeWeek": 435,
-    "timeMonth": 561,
-    "timeYear": 784,
+    "time": 954,
+    "timeDay": 352,
+    "timeWeek": 431,
+    "timeMonth": 544,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2022-05-12": 40,
       "2022-05-06": 15,
@@ -38,8 +38,7 @@
       "2021-06-13": 1440,
       "2021-06-12": 1050,
       "2021-05-29": 93,
-      "2021-05-28": 559,
-      "2021-05-27": 322
+      "2021-05-28": 559
     }
   },
   {
@@ -48,15 +47,15 @@
     "icon": "https://favicons.githubusercontent.com/showcase.api.linx.twenty57.net",
     "slug": "unixtime",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.87%",
     "uptimeYear": "98.49%",
     "time": 268,
-    "timeDay": 104,
-    "timeWeek": 98,
-    "timeMonth": 230,
+    "timeDay": 72,
+    "timeWeek": 97,
+    "timeMonth": 228,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2022-05-12": 40,
@@ -103,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-26": 60,
+      "2022-05-27": 56,
+      "2022-05-26": 1440,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
@@ -466,8 +466,7 @@
       "2021-05-31": 1440,
       "2021-05-30": 1440,
       "2021-05-29": 1440,
-      "2021-05-28": 1440,
-      "2021-05-27": 1440
+      "2021-05-28": 1440
     }
   }
 ]
