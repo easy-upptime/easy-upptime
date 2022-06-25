@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/showcase.api.linx.twenty57.net",
     "slug": "form2-channel",
     "status": "up",
-    "uptime": "98.70%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.22%",
-    "time": 928,
-    "timeDay": 413,
-    "timeWeek": 459,
-    "timeMonth": 467,
-    "timeYear": 706,
+    "time": 927,
+    "timeDay": 368,
+    "timeWeek": 426,
+    "timeMonth": 462,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2022-05-12": 40,
       "2022-05-06": 15,
@@ -30,8 +30,7 @@
       "2021-07-21": 25,
       "2021-07-20": 29,
       "2021-07-08": 22,
-      "2021-06-30": 60,
-      "2021-06-25": 18
+      "2021-06-30": 60
     }
   },
   {
@@ -46,8 +45,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.68%",
     "time": 258,
-    "timeDay": 100,
-    "timeWeek": 102,
+    "timeDay": 94,
+    "timeWeek": 99,
     "timeMonth": 101,
     "timeYear": 235,
     "dailyMinutesDown": {
@@ -92,7 +91,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-24": 57,
+      "2022-06-25": 58,
+      "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
       "2022-06-21": 1440,
@@ -455,8 +455,7 @@
       "2021-06-29": 1440,
       "2021-06-28": 1440,
       "2021-06-27": 1440,
-      "2021-06-26": 1440,
-      "2021-06-25": 1440
+      "2021-06-26": 1440
     }
   }
 ]
